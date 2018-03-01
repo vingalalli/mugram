@@ -1,4 +1,4 @@
-How to run Mugram:
+How to run Mugram: 
 
 1. If you have a working shell, and make, run the command 'make' from the project path '../mugram/' to compile Mugram for your system.
 2. The following command will run Mugram
